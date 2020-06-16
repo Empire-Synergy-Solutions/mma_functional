@@ -1,0 +1,22 @@
+@media print {
+  body{
+    width: 95%;
+  }
+  .main-header, .sidebar-menu, .tab-content, .control-sidebar, .control-sidebar-dark{
+    display: none;
+  }
+  .main-sidebar{
+    display: none;
+  }
+}
+.cs{
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+#img{
+  width: 450px;
+  margin-left: 300px;
+}
+#im{
+  margin-left: 50px;
+}
